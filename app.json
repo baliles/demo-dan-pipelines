@@ -1,15 +1,6 @@
 {
-  "name": "demo-dan-pipelines",
-  "scripts": {
-  },
-  "env": {
-  },
-  "formation": {
-  },
-  "addons": [
-
-  ],
-  "buildpacks": [
-
-  ]
+  "name": "PHP Getting Started",
+  "description": "A barebones PHP app that makes use of the Silex web framework",
+  "repository": "https://github.com/heroku/php-getting-started",
+  "addons": []
 }
