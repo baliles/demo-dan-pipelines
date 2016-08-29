@@ -1,5 +1,5 @@
 <?php
-
+// Adding Code Comments per Architect Coding Standards Policy
 require('../vendor/autoload.php');
 
 $app = new Silex\Application();
