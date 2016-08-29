@@ -1,4 +1,5 @@
 <?php
+// Updating code to include comments
 
 require('../vendor/autoload.php');
 
