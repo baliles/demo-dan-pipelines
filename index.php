@@ -1,6 +1,10 @@
 <?php
+<<<<<<< HEAD
 // Updating code to include comments
 
+=======
+// Adding Code Comments per Architect Coding Standards Policy
+>>>>>>> Dev
 require('../vendor/autoload.php');
 
 $app = new Silex\Application();
